@@ -15,4 +15,4 @@ This blog is part of my learning journey and portfolio.
 
 ## 🔗 Project Links
 
-- [GitHub Repository]([https://github.com/yourname/Tetris-raylib](https://github.com/masanori03/Tetris-raylib.git))
+- [GitHub Repository]([https://github.com/yourname/Tetris-raylib](https://github.com/masanori03/Tetris-raylib.git)
