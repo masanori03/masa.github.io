@@ -1,13 +1,18 @@
 ---
 layout: default
-title: Welcome
+title: Tetris Devlog
 ---
 
-# Welcome to My Tetris Devlog
+#  Tetris Development Log!
 
-This is my development log for building Tetris using C++ and Raylib.
+Welcome to my personal devlog documenting the process of building a Tetris clone using **C++ and Raylib**.
 
-→→ [Read in Japanese 日本語で読む](./index-ja.md)
+This blog is part of my learning journey and portfolio.
 
-→→ [First Post](./_posts/2025-05-26-tetris-day1.md)
+##  Post List
 
+→ [See All Posts](./log.md)
+
+## 🔗 Project Links
+
+- [GitHub Repository](https://github.com/yourname/Tetris-raylib)
