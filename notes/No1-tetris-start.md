@@ -1,15 +1,9 @@
 ---
 layout: post
-title: "No.1 テトリス開発開始"
+title: "No.1 Getting Started with Tetris"
+date: 2025-05-26
+summary: "Set up the environment and drew the basic grid using Raylib."
 ---
 
-# No.1 テトリスの枠作成
-C++とRaylibを使って、まずはテトリスの枠を描画するところから始めました。
+Today I started working on...
 
-## 今日やったこと
-
-- 開発環境セットアップ
-- Raylibウィンドウの表示確認
-- グリッドの大きさ検討
-
-次はブロックの描画と移動に進みます。
