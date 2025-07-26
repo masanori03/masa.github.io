@@ -19,8 +19,7 @@ It serves as both a development log and a portfolio piece.
 
 ## What's Inside
 
-- `log.md`: Step-by-step development notes (in English)
-- `_notes/`: Separate files for each development topic
+- `/log`: Separate files of notes for step-by-step development topic
 - `index.md`: Main page of the website
 - `_config.yml`: Jekyll config file
 
